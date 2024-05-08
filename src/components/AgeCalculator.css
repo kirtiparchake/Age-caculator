@@ -1,0 +1,18 @@
+.middle
+{
+    display: flex;
+    justify-content: space-between;
+}
+ 
+.left
+{
+    width: 500px;
+    background-color:#EEF1F6; 
+     
+}
+.midpara
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
